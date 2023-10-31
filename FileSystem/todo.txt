@@ -1,0 +1,5 @@
+di hari hari saya akan belajar
+1. beribadah kepada Allah
+2. pengembangan web api dengan ASP NET
+3. latihan dasar Node JS
+4. membuat portofolio 
